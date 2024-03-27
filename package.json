@@ -48,14 +48,14 @@
     "office-addin-debugging": "^3.0.25",
     "office-addin-dev-certs": "^1.5.0",
     "office-addin-lint": "^1.0.21",
-    "office-addin-manifest": "^1.12.4",
+    "office-addin-manifest": "^1.12.11",
     "office-addin-prettier-config": "^1.0.12",
     "source-map-loader": "^0.2.4",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
     "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^5.0.4"
   },
   "prettier": "office-addin-prettier-config"
 }
